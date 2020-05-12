@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.457e73bb.chunk.css",
+    "main.js": "/static/js/main.09c21ffc.chunk.js",
+    "main.js.map": "/static/js/main.09c21ffc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0d94967.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0d94967.js.map",
+    "static/js/2.5200b7af.chunk.js": "/static/js/2.5200b7af.chunk.js",
+    "static/js/2.5200b7af.chunk.js.map": "/static/js/2.5200b7af.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7563a5ddcd33dea90943af1f6580ded.js": "/precache-manifest.e7563a5ddcd33dea90943af1f6580ded.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.457e73bb.chunk.css.map": "/static/css/main.457e73bb.chunk.css.map",
+    "static/js/2.5200b7af.chunk.js.LICENSE.txt": "/static/js/2.5200b7af.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/Mermelada.cc6d4954.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0d94967.js",
+    "static/js/2.5200b7af.chunk.js",
+    "static/css/main.457e73bb.chunk.css",
+    "static/js/main.09c21ffc.chunk.js"
+  ]
+}
