@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "384f1f12035a15d0ca1557c7f814a9f5",
+    "revision": "30ffc32591c0fe5ccf3c0157524c613a",
     "url": "/index.html"
   },
   {
-    "revision": "faef2d323ecbd6d0ae2b",
-    "url": "/static/css/main.bbd3a0f0.chunk.css"
+    "revision": "d9f678b07ae133002a78",
+    "url": "/static/css/main.83e8f972.chunk.css"
   },
   {
     "revision": "379227aa00fe9883bbc9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5200b7af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "faef2d323ecbd6d0ae2b",
+    "revision": "d9f678b07ae133002a78",
     "url": "/static/js/main.25873c43.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/runtime-main.a0d94967.js"
   },
   {
-    "revision": "91ae715c55a9d8bc5c1a30e80d5c38c1",
-    "url": "/static/media/MermeladaFondo.91ae715c.png"
+    "revision": "021d7a3d2260160da4679b70d551cf60",
+    "url": "/static/media/Mermelada.021d7a3d.jpg"
   }
 ]);
