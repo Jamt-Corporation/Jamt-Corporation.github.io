@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5155771.chunk.css",
-    "main.js": "/static/js/main.c2b40ed3.chunk.js",
-    "main.js.map": "/static/js/main.c2b40ed3.chunk.js.map",
+    "main.css": "/static/css/main.efad172d.chunk.css",
+    "main.js": "/static/js/main.a12079a3.chunk.js",
+    "main.js.map": "/static/js/main.a12079a3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a0d94967.js",
     "runtime-main.js.map": "/static/js/runtime-main.a0d94967.js.map",
     "static/js/2.5200b7af.chunk.js": "/static/js/2.5200b7af.chunk.js",
     "static/js/2.5200b7af.chunk.js.map": "/static/js/2.5200b7af.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ead89f2ab0140ea8d0d8690e26ce4b12.js": "/precache-manifest.ead89f2ab0140ea8d0d8690e26ce4b12.js",
+    "precache-manifest.39e86bd9d8badf49c9878af8552b1e73.js": "/precache-manifest.39e86bd9d8badf49c9878af8552b1e73.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d5155771.chunk.css.map": "/static/css/main.d5155771.chunk.css.map",
+    "static/css/main.efad172d.chunk.css.map": "/static/css/main.efad172d.chunk.css.map",
     "static/js/2.5200b7af.chunk.js.LICENSE.txt": "/static/js/2.5200b7af.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/static/media/WallpaperFondo.8988bd06.jpg"
+    "static/media/Home.css": "/static/media/MermeladaMovil.a92fca7d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a0d94967.js",
     "static/js/2.5200b7af.chunk.js",
-    "static/css/main.d5155771.chunk.css",
-    "static/js/main.c2b40ed3.chunk.js"
+    "static/css/main.efad172d.chunk.css",
+    "static/js/main.a12079a3.chunk.js"
   ]
 }
