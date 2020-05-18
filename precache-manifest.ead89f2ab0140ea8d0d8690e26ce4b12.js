@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b176d06df477a60f7cf6c51737f802c3",
+    "revision": "92e474c68cf296d1d8b35295aebee295",
     "url": "/index.html"
   },
   {
-    "revision": "8338f8d9efa5a1f3f777",
-    "url": "/static/css/main.a7959073.chunk.css"
+    "revision": "f16cbca931ad73a5dc7f",
+    "url": "/static/css/main.d5155771.chunk.css"
   },
   {
     "revision": "379227aa00fe9883bbc9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5200b7af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8338f8d9efa5a1f3f777",
+    "revision": "f16cbca931ad73a5dc7f",
     "url": "/static/js/main.c2b40ed3.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/runtime-main.a0d94967.js"
   },
   {
-    "revision": "06b5ee9f93a30192525cddd4574c7951",
-    "url": "/static/media/MermeladaOscura.06b5ee9f.png"
+    "revision": "8988bd062202da5102d3c3b148cce43f",
+    "url": "/static/media/WallpaperFondo.8988bd06.jpg"
   }
 ]);
