@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.83e8f972.chunk.css",
-    "main.js": "/static/js/main.25873c43.chunk.js",
-    "main.js.map": "/static/js/main.25873c43.chunk.js.map",
+    "main.css": "/static/css/main.a7959073.chunk.css",
+    "main.js": "/static/js/main.c2b40ed3.chunk.js",
+    "main.js.map": "/static/js/main.c2b40ed3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a0d94967.js",
     "runtime-main.js.map": "/static/js/runtime-main.a0d94967.js.map",
     "static/js/2.5200b7af.chunk.js": "/static/js/2.5200b7af.chunk.js",
     "static/js/2.5200b7af.chunk.js.map": "/static/js/2.5200b7af.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.657759ea9e6ac255b8e9854e452125ae.js": "/precache-manifest.657759ea9e6ac255b8e9854e452125ae.js",
+    "precache-manifest.ef3375da908943675ef8b9edbc586a3f.js": "/precache-manifest.ef3375da908943675ef8b9edbc586a3f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.83e8f972.chunk.css.map": "/static/css/main.83e8f972.chunk.css.map",
+    "static/css/main.a7959073.chunk.css.map": "/static/css/main.a7959073.chunk.css.map",
     "static/js/2.5200b7af.chunk.js.LICENSE.txt": "/static/js/2.5200b7af.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/static/media/Mermelada.021d7a3d.jpg"
+    "static/media/Home.css": "/static/media/MermeladaOscura.06b5ee9f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a0d94967.js",
     "static/js/2.5200b7af.chunk.js",
-    "static/css/main.83e8f972.chunk.css",
-    "static/js/main.25873c43.chunk.js"
+    "static/css/main.a7959073.chunk.css",
+    "static/js/main.c2b40ed3.chunk.js"
   ]
 }
